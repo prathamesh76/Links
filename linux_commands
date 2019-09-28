@@ -1,0 +1,8 @@
+--get running processes
+ps -ef | grep java
+kill -9 24417
+
+--run microservices using cloud
+nohup java -jar -Dspring.profiles.active=native service.jar &
+nohup java -jar  -Dspring.profiles.active=development -Dspring.cloud.config.uri=http://localhost:9999 service1.jar &
+nohup java -jar -Dspring.profiles.active=development -Dspring.cloud.config.uri=http://<<ipaddress>>:9999 service2.jar &
