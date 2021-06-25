@@ -12,6 +12,7 @@
 <p><strong>React Js Tutorial.</strong></p>
 <ul>
 <li><strong><a href="https://www.youtube.com/watch?v=QFaFIcGhPoM&amp;list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&amp;index=1">https://www.youtube.com/watch?v=QFaFIcGhPoM&amp;list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&amp;index=1</a></strong></li>
+<li>How to create React js project :- <a href="https://www.javatpoint.com/react-create-react-app">https://www.javatpoint.com/react-create-react-app</a></li>
 <li>&nbsp;</li>
 </ul>
 <p><strong>create an application with a ReactJs frontend and Spring MVC backend.</strong></p>
