@@ -7,6 +7,7 @@
 <li><a href="https://github.com/varunon9">https://github.com/varunon9</a></li>
 <li><a href="https://github.com/kurkle">https://github.com/kurkle (Chart js)</a></li>
 <li><a href="https://github.com/gopinav">https://github.com/gopinav</a></li>
+<li><a href="https://github.com/Java-Techie-jt">https://github.com/Java-Techie-jt</a> (All Spring Projects)</li>
 </ul>
 <p>&nbsp;</p>
 <p><strong>React Js Tutorial.</strong></p>
