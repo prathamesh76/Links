@@ -9,7 +9,10 @@
 <li><a href="https://github.com/gopinav">https://github.com/gopinav</a></li>
 <li><a href="https://github.com/Java-Techie-jt">https://github.com/Java-Techie-jt</a> (All Spring Projects)</li>
 </ul>
-<p>&nbsp;</p>
+<p><strong>Java Links</strong></p>
+<ul>
+<li><a href="https://www.javainuse.com/">www.javainuse.com</a></li>
+</ul>
 <p><strong>React Js Tutorial.</strong></p>
 <ul>
 <li><strong><a href="https://www.youtube.com/watch?v=QFaFIcGhPoM&amp;list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&amp;index=1">https://www.youtube.com/watch?v=QFaFIcGhPoM&amp;list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&amp;index=1</a></strong></li>
