@@ -13,10 +13,11 @@
 <ul>
 <li><a href="https://www.javainuse.com/">www.javainuse.com</a></li>
 </ul>
-<p><strong>Minifiers</strong></p>
+<p><strong>Third Party Minifiers &amp; Converters</strong></p>
 <ul>
-<li><a href="https://www.prettifyjs.net/">https://www.prettifyjs.net/</a></li>
-<li><a href="https://www.uglifyjs.net/">https://www.uglifyjs.net/</a></li>
+<li>JS Beautifier :- <a href="https://www.prettifyjs.net/">https://www.prettifyjs.net/</a></li>
+<li>JS Minifier :-&nbsp;<a href="https://www.uglifyjs.net/">https://www.uglifyjs.net/</a></li>
+<li>JSON to JAVA Converter :- <a href="https://codebeautify.org/json-to-java-converter">https://codebeautify.org/json-to-java-converter</a></li>
 </ul>
 <p><strong>React Js Tutorial.</strong></p>
 <ul>
