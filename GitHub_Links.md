@@ -13,6 +13,11 @@
 <ul>
 <li><a href="https://www.javainuse.com/">www.javainuse.com</a></li>
 </ul>
+<p><strong>Minifiers</strong></p>
+<ul>
+<li><a href="https://www.prettifyjs.net/">https://www.prettifyjs.net/</a></li>
+<li><a href="https://www.uglifyjs.net/">https://www.uglifyjs.net/</a></li>
+</ul>
 <p><strong>React Js Tutorial.</strong></p>
 <ul>
 <li><strong><a href="https://www.youtube.com/watch?v=QFaFIcGhPoM&amp;list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&amp;index=1">https://www.youtube.com/watch?v=QFaFIcGhPoM&amp;list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&amp;index=1</a></strong></li>
