@@ -44,3 +44,27 @@
 <li><a href="https://www.jsdelivr.com/package/npm/chart.js?path=dist" rel="nofollow">https://www.jsdelivr.com/package/npm/chart.js?path=dist</a></li>
 <li><a href="https://openbase.com/js/react-simple-maps" rel="nofollow">https://openbase.com/js/react-simple-maps</a></li>
 </ul>
+
+<table style="height: 83px; width: 100.525%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr style="height: 15px;">
+<td style="width: 66.6666%; height: 15px; text-align: center;" colspan="2"><strong>Git Hub Links</strong></td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 21.4865%; height: 17px;">JS Beautifier</td>
+<td style="width: 45.1801%; height: 17px;"><a href="https://www.prettifyjs.net/" rel="nofollow">https://www.prettifyjs.net/</a></td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 21.4865%; height: 17px;">JS Minifier</td>
+<td style="width: 45.1801%; height: 17px;"><a href="https://www.uglifyjs.net/" rel="nofollow">https://www.uglifyjs.net/</a></td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 21.4865%; height: 17px;">JSON to JAVA Converter</td>
+<td style="width: 45.1801%; height: 17px;"><a href="https://codebeautify.org/json-to-java-converter" rel="nofollow">https://codebeautify.org/json-to-java-converter</a></td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 21.4865%; height: 17px;">&nbsp;</td>
+<td style="width: 45.1801%; height: 17px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
