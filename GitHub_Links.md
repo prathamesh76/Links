@@ -9,6 +9,7 @@
 <li><a href="https://github.com/gopinav">https://github.com/gopinav</a></li>
 <li><a href="https://github.com/Java-Techie-jt">https://github.com/Java-Techie-jt</a> (All Spring Projects)</li>
 <li><a href="https://github.com/CodeWithHarry">https://github.com/CodeWithHarry</a></li>
+<li><a href="https://github.com/TechPrimers">https://github.com/TechPrimers</a></li>
 </ul>
 <p><strong>Java Links</strong></p>
 <ul>
