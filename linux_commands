@@ -10,3 +10,13 @@ nohup java -jar -Dspring.profiles.active=development -Dspring.cloud.config.uri=h
 
 --run EligibilityRuleEngine.js file in linux
 nohup node EligibilityRuleEngine &
+
+
+
+--run on local
+for config server add VM arguements : -Dspring.profiles.active=native
+
+for services add VM arguements :  -Dspring.profiles.active=development
+for services add in Environment: 
+         Name:  spring.cloud.config.uri
+         Value: http://localhost:9999
