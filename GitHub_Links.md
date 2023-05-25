@@ -12,7 +12,9 @@
 <li><a href="https://github.com/TechPrimers">https://github.com/TechPrimers</a></li>
 <li><a href="https://github.com/knowledgefactory4u/KnowledgeFactory">https://github.com/knowledgefactory4u/KnowledgeFactory</a></li>
 <li><a href="https://github.com/chargeahead/html2pdf">https://github.com/chargeahead/html2pdf</a></li>
-<li>https://github.com/batuhaniskr</li>
+<li><a href="https://github.com/batuhaniskr">https://github.com/batuhaniskr</a> (Product Project)</li>
+<li><a href="https://github.com/onkarganjewar">https://github.com/onkarganjewar</a> (Library Management System Project)</li>
+<li>&nbsp;</li>
 </ul>
 <p><strong>Spring Boot</strong></p>
 <ul>
